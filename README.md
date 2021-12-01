@@ -1,0 +1,2 @@
+# coolzhi.github.io
+hexo
